@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="multidex-instrumentation-1.0.1">
+    <CLASSES>
+      <root url="jar://D:/android/android-sdk_r24.4.1-windows/android-sdk_r24.4.1-windows/android-sdk-windows/sdk/.android/build-cache/7e20d9822f2a2dff5af97ba77cb9a8d491b348b5/output/jars/classes.jar!/" />
+      <root url="file://D:/android/android-sdk_r24.4.1-windows/android-sdk_r24.4.1-windows/android-sdk-windows/sdk/.android/build-cache/7e20d9822f2a2dff5af97ba77cb9a8d491b348b5/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,7 @@
+#Tue Jun 27 16:27:18 GMT+08:00 2017
+base.0=F\:\\zhanyaa\\study\\easemob-sdk-3.3.2_r1\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fd6130bc5b28d51c96ddc9fedf58cc6aceaf2a85
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\zhanyaa\\study\\easemob-sdk-3.3.2_r1\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d87b8df935e391c425ea919cb45091066e0697fc\\classes.dex
+base.1=F\:\\zhanyaa\\study\\easemob-sdk-3.3.2_r1\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d87b8df935e391c425ea919cb45091066e0697fc
+file.0=F\:\\zhanyaa\\study\\easemob-sdk-3.3.2_r1\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_fd6130bc5b28d51c96ddc9fedf58cc6aceaf2a85\\classes.dex

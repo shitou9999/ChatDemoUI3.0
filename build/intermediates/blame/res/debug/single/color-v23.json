@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "F:\\zhanyaa\\study\\easemob-sdk-3.3.2_r1\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "D:\\android\\android-sdk_r24.4.1-windows\\android-sdk_r24.4.1-windows\\android-sdk-windows\\sdk\\.android\\build-cache\\dcee8d3c70216935ba9ef204f95d454ef506df6a\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "F:\\zhanyaa\\study\\easemob-sdk-3.3.2_r1\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "D:\\android\\android-sdk_r24.4.1-windows\\android-sdk_r24.4.1-windows\\android-sdk-windows\\sdk\\.android\\build-cache\\dcee8d3c70216935ba9ef204f95d454ef506df6a\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "F:\\zhanyaa\\study\\easemob-sdk-3.3.2_r1\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "D:\\android\\android-sdk_r24.4.1-windows\\android-sdk_r24.4.1-windows\\android-sdk-windows\\sdk\\.android\\build-cache\\dcee8d3c70216935ba9ef204f95d454ef506df6a\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "F:\\zhanyaa\\study\\easemob-sdk-3.3.2_r1\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "D:\\android\\android-sdk_r24.4.1-windows\\android-sdk_r24.4.1-windows\\android-sdk-windows\\sdk\\.android\\build-cache\\dcee8d3c70216935ba9ef204f95d454ef506df6a\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "F:\\zhanyaa\\study\\easemob-sdk-3.3.2_r1\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "D:\\android\\android-sdk_r24.4.1-windows\\android-sdk_r24.4.1-windows\\android-sdk-windows\\sdk\\.android\\build-cache\\dcee8d3c70216935ba9ef204f95d454ef506df6a\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "F:\\zhanyaa\\study\\easemob-sdk-3.3.2_r1\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "D:\\android\\android-sdk_r24.4.1-windows\\android-sdk_r24.4.1-windows\\android-sdk-windows\\sdk\\.android\\build-cache\\dcee8d3c70216935ba9ef204f95d454ef506df6a\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "F:\\zhanyaa\\study\\easemob-sdk-3.3.2_r1\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "D:\\android\\android-sdk_r24.4.1-windows\\android-sdk_r24.4.1-windows\\android-sdk-windows\\sdk\\.android\\build-cache\\dcee8d3c70216935ba9ef204f95d454ef506df6a\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "F:\\zhanyaa\\study\\easemob-sdk-3.3.2_r1\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "D:\\android\\android-sdk_r24.4.1-windows\\android-sdk_r24.4.1-windows\\android-sdk-windows\\sdk\\.android\\build-cache\\dcee8d3c70216935ba9ef204f95d454ef506df6a\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "F:\\zhanyaa\\study\\easemob-sdk-3.3.2_r1\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "D:\\android\\android-sdk_r24.4.1-windows\\android-sdk_r24.4.1-windows\\android-sdk-windows\\sdk\\.android\\build-cache\\dcee8d3c70216935ba9ef204f95d454ef506df6a\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    }
+]
